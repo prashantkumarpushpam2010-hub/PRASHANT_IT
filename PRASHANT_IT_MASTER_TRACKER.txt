@@ -1,0 +1,31 @@
+PRASHANT IT
+MASTER PROGRESS TRACKER
+Date: 18 November 2026
+
+1. PYTHON
+Status: In Progress
+Current Checkpoint: Lesson 5 - Q12
+Next Step: Q13 - copy() method
+
+2. HTML
+Status: In Progress
+Current Checkpoint: Chapter 1
+Next Step: Verify latest concept
+
+3. HARDWARE
+Status: In Progress
+Current Checkpoint: HDD Concept 7
+Next Step: Complete pending checkpoint
+
+4. ANIME GAME
+Status: In Progress
+Current Checkpoint: Step 1.22
+Next Step: Step 1.23 - ISHNI Symbol
+
+5. PRASHANT AI
+Status: Planning
+Next Step: V1 Feature Checklist
+
+6. PRASHANT NEXUS
+Status: Planning
+Next Step: Technical Blueprint
