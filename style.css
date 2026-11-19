@@ -47,6 +47,14 @@ nav {
     text-shadow: 0 0 12px rgba(56, 189, 248, 0.5);
 }
 
+.company-logo {
+    height: 48px;
+    width: auto;
+    max-width: 220px;
+    object-fit: contain;
+    display: block;
+}
+
 nav ul {
     display: flex;
     list-style: none;
