@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://prashantkumarpushpam2010-hub.github.io/PRASHANT_IT/sitemap.xml
